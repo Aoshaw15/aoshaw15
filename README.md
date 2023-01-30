@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=4a0d72&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>HTML5, CSS3, API, & Javascript</strong> - Fun API that displays images provided by NASA on a daily basis </p>
     </td>
   </tr>
 </table>
