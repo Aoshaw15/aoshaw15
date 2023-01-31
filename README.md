@@ -24,10 +24,10 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Rosemar Flowers</h3>
+      <h2 align="center">Rosemar Flowers</h2>
       <br />
         <a target="_blank" href="https://rosemarflowers.netlify.app/">
-          <img src="Port gifs/rosemargif width="100%" alt="Portfolio"/>
+          <img src="Port gifs/rosemargif.gif" width="100%" alt="Rosemar"/>
         </a>
       <br />
         <p align="center">
@@ -41,10 +41,10 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - A responsive website template for a local floral shop</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Wonders of NASA</h3>
+      <h2 align="center">Wonders of NASA</h2>
         <br />
         <a target="_blank" href="https://wonders-of-nasa.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="Port gifs/nasagif.gif" width="100%" alt="Nasa"/>
         </a>
         <br />
         <p align="center">
