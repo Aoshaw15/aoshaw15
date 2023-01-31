@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<img src ="https://user-images.githubusercontent.com/109254463/215635089-69bd5dce-096c-48fa-bf99-6204b90b85d9.jpeg" height= 210px width = 100%>
+
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">A passionate full-stack developer from California</h3>
 
 <!-- links -->
@@ -25,7 +27,7 @@
       <h3 align="center">Rosemar Flowers</h3>
       <br />
         <a target="_blank" href="https://rosemarflowers.netlify.app/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="Port gifs/rosemargif width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
