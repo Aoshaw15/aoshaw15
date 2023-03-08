@@ -1,7 +1,7 @@
 <img src ="https://user-images.githubusercontent.com/109254463/215635089-69bd5dce-096c-48fa-bf99-6204b90b85d9.jpeg" height= 210px width = 100%>
 
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">A passionate full-stack developer from California</h3>
+<h3 align="center">I'm a passionate full-stack developer from California ready to take on any challenge</h3>
 
 <!-- links -->
 <p align="center">
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/alexander-shaw-8" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=4a0d72&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=WELLFOUND&color=4a0d72&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
 
@@ -57,6 +57,26 @@
   </a>
       </p>
         <p><strong>HTML5, CSS3, API, & Javascript</strong> - Fun API that displays images provided by NASA on a daily basis </p>
+    </td>
+  </tr>
+  <tr>
+     <td width="50%" valign="top">
+      <h2 align="center">My Portfolio</h2>
+        <br />
+        <a target="_blank" href="https://alexandershaw.netlify.app/">
+          <img src="Port gifs/portgif.gif" width="100%" alt="Portfolio"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/Aoshaw15/Aos-Portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://alexandershaw.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=4a0d72&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Full portfolio showcasing past projects along with ways to contact me</p>
     </td>
   </tr>
 </table>
